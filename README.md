@@ -67,3 +67,4 @@ Or, if you'd want to display an image already uploaded to the documentation repo
 ```
 ![alternative text here](/assets/media/assets-newcategory.png "Tooltip text here")
 ```
+This is my correction!
